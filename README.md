@@ -5,6 +5,8 @@ Easy React app, function with Node.js environment
 2. To-do-list - super primitive "to do list", you can add something, but there is no data base so after refresh there is no user data.
 
 ``` with REDUX ```
+
+
 3. FavColor - easy app with Redux which shows name of color in console. No need to use terminal, also there is no view focus only on console.
 4. Counter - counter with Redux, you need use (npm start), you can + or - by clicking buttons. 
 
